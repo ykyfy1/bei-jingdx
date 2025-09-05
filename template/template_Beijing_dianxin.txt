@@ -27,7 +27,7 @@ http://ipipip/rtp/225.1.8.36:8002
 #EXTINF:-1 tvg-id="萌宠TV" tvg-name="萌宠TV" tvg-logo="https://live.fanmingming.com/tv/萌宠TV.png" group-title="本地高清",萌宠TV
 http://ipipip/rtp/225.1.8.63:8002
 #EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://live.fanmingming.com/tv/北京卫视4K.png" group-title="本地高清",北京卫视4K
-http://ipipip/rtp/225.1.8.211:8002
+http://ipipip/rtp/225.1.8.128:8002
 #EXTINF:-1 tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://live.fanmingming.com/tv/北京新闻.png" group-title="本地高清",北京新闻
 http://ipipip/rtp/225.1.8.83:8000
 #EXTINF:-1 tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://live.fanmingming.com/tv/北京影视.png" group-title="本地高清",北京影视
@@ -64,3 +64,4 @@ http://ipipip/rtp/225.1.8.212:8002
 http://ipipip/rtp/225.1.8.214:8002
 #EXTINF:-1 tvg-id="晴彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://www.yangfeiyue.cn/tv/睛彩广场舞.png" group-title="卫视高清",睛彩广场舞
 http://ipipip/rtp/225.1.8.215:8002
+
