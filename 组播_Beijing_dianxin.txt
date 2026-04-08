@@ -15,7 +15,7 @@ http://1.203.76.245:8899/rtp/225.1.8.181:4222
 http://1.203.76.245:8899/rtp/225.1.8.211:8002
 #EXTINF:-1 tvg-id="重温经典电影" tvg-name="重温经典电影" tvg-logo="https://live.fanmingming.com/tv/重温经典电影.png" " group-title="本地高清",重温经典电影
 http://1.203.76.245:8899/rtp/225.1.8.39:8002
-#EXTINF:-1 tvg-id="华数4K影视" tvg-name="华数4K影视" tvg-logo="https://live.fanmingming.com/tv/华数4K影视.png" group-title="本地高清",华数4K影视
+#EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="本地高清",爱上4K
 http://1.203.76.245:8899/rtp/225.1.8.80:2000
 #EXTINF:-1 tvg-id="北京淘电影" tvg-name="北京淘电影" tvg-logo="https://live.fanmingming.com/tv/北京淘电影.png" " group-title="本地高清",北京淘电影
 http://1.203.76.245:8899/rtp/225.1.8.38:8002
@@ -82,7 +82,7 @@ http://115.171.18.64:9000/rtp/225.1.8.181:4222
 http://115.171.18.64:9000/rtp/225.1.8.211:8002
 #EXTINF:-1 tvg-id="重温经典电影" tvg-name="重温经典电影" tvg-logo="https://live.fanmingming.com/tv/重温经典电影.png" " group-title="本地高清",重温经典电影
 http://115.171.18.64:9000/rtp/225.1.8.39:8002
-#EXTINF:-1 tvg-id="华数4K影视" tvg-name="华数4K影视" tvg-logo="https://live.fanmingming.com/tv/华数4K影视.png" group-title="本地高清",华数4K影视
+#EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="本地高清",爱上4K
 http://115.171.18.64:9000/rtp/225.1.8.80:2000
 #EXTINF:-1 tvg-id="北京淘电影" tvg-name="北京淘电影" tvg-logo="https://live.fanmingming.com/tv/北京淘电影.png" " group-title="本地高清",北京淘电影
 http://115.171.18.64:9000/rtp/225.1.8.38:8002
@@ -149,7 +149,7 @@ http://115.171.216.23:4000/rtp/225.1.8.181:4222
 http://115.171.216.23:4000/rtp/225.1.8.211:8002
 #EXTINF:-1 tvg-id="重温经典电影" tvg-name="重温经典电影" tvg-logo="https://live.fanmingming.com/tv/重温经典电影.png" " group-title="本地高清",重温经典电影
 http://115.171.216.23:4000/rtp/225.1.8.39:8002
-#EXTINF:-1 tvg-id="华数4K影视" tvg-name="华数4K影视" tvg-logo="https://live.fanmingming.com/tv/华数4K影视.png" group-title="本地高清",华数4K影视
+#EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="本地高清",爱上4K
 http://115.171.216.23:4000/rtp/225.1.8.80:2000
 #EXTINF:-1 tvg-id="北京淘电影" tvg-name="北京淘电影" tvg-logo="https://live.fanmingming.com/tv/北京淘电影.png" " group-title="本地高清",北京淘电影
 http://115.171.216.23:4000/rtp/225.1.8.38:8002
@@ -216,7 +216,7 @@ http://115.171.216.58:4000/rtp/225.1.8.181:4222
 http://115.171.216.58:4000/rtp/225.1.8.211:8002
 #EXTINF:-1 tvg-id="重温经典电影" tvg-name="重温经典电影" tvg-logo="https://live.fanmingming.com/tv/重温经典电影.png" " group-title="本地高清",重温经典电影
 http://115.171.216.58:4000/rtp/225.1.8.39:8002
-#EXTINF:-1 tvg-id="华数4K影视" tvg-name="华数4K影视" tvg-logo="https://live.fanmingming.com/tv/华数4K影视.png" group-title="本地高清",华数4K影视
+#EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="本地高清",爱上4K
 http://115.171.216.58:4000/rtp/225.1.8.80:2000
 #EXTINF:-1 tvg-id="北京淘电影" tvg-name="北京淘电影" tvg-logo="https://live.fanmingming.com/tv/北京淘电影.png" " group-title="本地高清",北京淘电影
 http://115.171.216.58:4000/rtp/225.1.8.38:8002
@@ -283,7 +283,7 @@ http://115.171.217.3:8888/rtp/225.1.8.181:4222
 http://115.171.217.3:8888/rtp/225.1.8.211:8002
 #EXTINF:-1 tvg-id="重温经典电影" tvg-name="重温经典电影" tvg-logo="https://live.fanmingming.com/tv/重温经典电影.png" " group-title="本地高清",重温经典电影
 http://115.171.217.3:8888/rtp/225.1.8.39:8002
-#EXTINF:-1 tvg-id="华数4K影视" tvg-name="华数4K影视" tvg-logo="https://live.fanmingming.com/tv/华数4K影视.png" group-title="本地高清",华数4K影视
+#EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="本地高清",爱上4K
 http://115.171.217.3:8888/rtp/225.1.8.80:2000
 #EXTINF:-1 tvg-id="北京淘电影" tvg-name="北京淘电影" tvg-logo="https://live.fanmingming.com/tv/北京淘电影.png" " group-title="本地高清",北京淘电影
 http://115.171.217.3:8888/rtp/225.1.8.38:8002
@@ -350,7 +350,7 @@ http://115.171.79.215:18022/rtp/225.1.8.181:4222
 http://115.171.79.215:18022/rtp/225.1.8.211:8002
 #EXTINF:-1 tvg-id="重温经典电影" tvg-name="重温经典电影" tvg-logo="https://live.fanmingming.com/tv/重温经典电影.png" " group-title="本地高清",重温经典电影
 http://115.171.79.215:18022/rtp/225.1.8.39:8002
-#EXTINF:-1 tvg-id="华数4K影视" tvg-name="华数4K影视" tvg-logo="https://live.fanmingming.com/tv/华数4K影视.png" group-title="本地高清",华数4K影视
+#EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="本地高清",爱上4K
 http://115.171.79.215:18022/rtp/225.1.8.80:2000
 #EXTINF:-1 tvg-id="北京淘电影" tvg-name="北京淘电影" tvg-logo="https://live.fanmingming.com/tv/北京淘电影.png" " group-title="本地高清",北京淘电影
 http://115.171.79.215:18022/rtp/225.1.8.38:8002
@@ -417,7 +417,7 @@ http://115.171.80.124:1688/rtp/225.1.8.181:4222
 http://115.171.80.124:1688/rtp/225.1.8.211:8002
 #EXTINF:-1 tvg-id="重温经典电影" tvg-name="重温经典电影" tvg-logo="https://live.fanmingming.com/tv/重温经典电影.png" " group-title="本地高清",重温经典电影
 http://115.171.80.124:1688/rtp/225.1.8.39:8002
-#EXTINF:-1 tvg-id="华数4K影视" tvg-name="华数4K影视" tvg-logo="https://live.fanmingming.com/tv/华数4K影视.png" group-title="本地高清",华数4K影视
+#EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="本地高清",爱上4K
 http://115.171.80.124:1688/rtp/225.1.8.80:2000
 #EXTINF:-1 tvg-id="北京淘电影" tvg-name="北京淘电影" tvg-logo="https://live.fanmingming.com/tv/北京淘电影.png" " group-title="本地高清",北京淘电影
 http://115.171.80.124:1688/rtp/225.1.8.38:8002
@@ -484,7 +484,7 @@ http://115.171.85.116:4022/rtp/225.1.8.181:4222
 http://115.171.85.116:4022/rtp/225.1.8.211:8002
 #EXTINF:-1 tvg-id="重温经典电影" tvg-name="重温经典电影" tvg-logo="https://live.fanmingming.com/tv/重温经典电影.png" " group-title="本地高清",重温经典电影
 http://115.171.85.116:4022/rtp/225.1.8.39:8002
-#EXTINF:-1 tvg-id="华数4K影视" tvg-name="华数4K影视" tvg-logo="https://live.fanmingming.com/tv/华数4K影视.png" group-title="本地高清",华数4K影视
+#EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="本地高清",爱上4K
 http://115.171.85.116:4022/rtp/225.1.8.80:2000
 #EXTINF:-1 tvg-id="北京淘电影" tvg-name="北京淘电影" tvg-logo="https://live.fanmingming.com/tv/北京淘电影.png" " group-title="本地高清",北京淘电影
 http://115.171.85.116:4022/rtp/225.1.8.38:8002
@@ -551,7 +551,7 @@ http://219.142.73.178:4000/rtp/225.1.8.181:4222
 http://219.142.73.178:4000/rtp/225.1.8.211:8002
 #EXTINF:-1 tvg-id="重温经典电影" tvg-name="重温经典电影" tvg-logo="https://live.fanmingming.com/tv/重温经典电影.png" " group-title="本地高清",重温经典电影
 http://219.142.73.178:4000/rtp/225.1.8.39:8002
-#EXTINF:-1 tvg-id="华数4K影视" tvg-name="华数4K影视" tvg-logo="https://live.fanmingming.com/tv/华数4K影视.png" group-title="本地高清",华数4K影视
+#EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="本地高清",爱上4K
 http://219.142.73.178:4000/rtp/225.1.8.80:2000
 #EXTINF:-1 tvg-id="北京淘电影" tvg-name="北京淘电影" tvg-logo="https://live.fanmingming.com/tv/北京淘电影.png" " group-title="本地高清",北京淘电影
 http://219.142.73.178:4000/rtp/225.1.8.38:8002
@@ -618,7 +618,7 @@ http://219.142.73.179:4000/rtp/225.1.8.181:4222
 http://219.142.73.179:4000/rtp/225.1.8.211:8002
 #EXTINF:-1 tvg-id="重温经典电影" tvg-name="重温经典电影" tvg-logo="https://live.fanmingming.com/tv/重温经典电影.png" " group-title="本地高清",重温经典电影
 http://219.142.73.179:4000/rtp/225.1.8.39:8002
-#EXTINF:-1 tvg-id="华数4K影视" tvg-name="华数4K影视" tvg-logo="https://live.fanmingming.com/tv/华数4K影视.png" group-title="本地高清",华数4K影视
+#EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="本地高清",爱上4K
 http://219.142.73.179:4000/rtp/225.1.8.80:2000
 #EXTINF:-1 tvg-id="北京淘电影" tvg-name="北京淘电影" tvg-logo="https://live.fanmingming.com/tv/北京淘电影.png" " group-title="本地高清",北京淘电影
 http://219.142.73.179:4000/rtp/225.1.8.38:8002
@@ -685,7 +685,7 @@ http://49.232.181.26:6000/rtp/225.1.8.181:4222
 http://49.232.181.26:6000/rtp/225.1.8.211:8002
 #EXTINF:-1 tvg-id="重温经典电影" tvg-name="重温经典电影" tvg-logo="https://live.fanmingming.com/tv/重温经典电影.png" " group-title="本地高清",重温经典电影
 http://49.232.181.26:6000/rtp/225.1.8.39:8002
-#EXTINF:-1 tvg-id="华数4K影视" tvg-name="华数4K影视" tvg-logo="https://live.fanmingming.com/tv/华数4K影视.png" group-title="本地高清",华数4K影视
+#EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png" group-title="本地高清",爱上4K
 http://49.232.181.26:6000/rtp/225.1.8.80:2000
 #EXTINF:-1 tvg-id="北京淘电影" tvg-name="北京淘电影" tvg-logo="https://live.fanmingming.com/tv/北京淘电影.png" " group-title="本地高清",北京淘电影
 http://49.232.181.26:6000/rtp/225.1.8.38:8002
